@@ -1,0 +1,15 @@
+C:\Users\alext\source\repos\Ejercicio5\Ejercicio5\bin\Debug\Ejercicio5.exe.config
+C:\Users\alext\source\repos\Ejercicio5\Ejercicio5\bin\Debug\Ejercicio5.exe
+C:\Users\alext\source\repos\Ejercicio5\Ejercicio5\bin\Debug\Ejercicio5.pdb
+C:\Users\alext\source\repos\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.csprojAssemblyReference.cache
+C:\Users\alext\source\repos\Ejercicio5\Ejercicio5\obj\Debug\MainWindow.g.cs
+C:\Users\alext\source\repos\Ejercicio5\Ejercicio5\obj\Debug\App.g.cs
+C:\Users\alext\source\repos\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5_MarkupCompile.cache
+C:\Users\alext\source\repos\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5_MarkupCompile.lref
+C:\Users\alext\source\repos\Ejercicio5\Ejercicio5\obj\Debug\MainWindow.baml
+C:\Users\alext\source\repos\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.g.resources
+C:\Users\alext\source\repos\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.Properties.Resources.resources
+C:\Users\alext\source\repos\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.csproj.GenerateResource.cache
+C:\Users\alext\source\repos\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.csproj.CoreCompileInputs.cache
+C:\Users\alext\source\repos\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.exe
+C:\Users\alext\source\repos\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.pdb
